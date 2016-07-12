@@ -60,5 +60,6 @@ background-image: url("paper.gif");
 <br><br><br>
 
 ___
-***Data:** 11/07/2016*  
-***Autor:** http://www.fabioaleixo.com.br/, para http://www.voltdata.info/*
+**Data:** 11/07/2016*  
+**Autor:** [Fábio Aleixo](http://www.fabioaleixo.com.br/), para [Volt Data Lab](http://www.voltdata.info/)
+
