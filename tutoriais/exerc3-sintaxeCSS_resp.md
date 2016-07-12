@@ -33,4 +33,4 @@ background: url("paper.gif") fixed;
 ```
 ___
 ***Data:** 11/07/2016*  
-***Autor:** http://www.fabioaleixo.com.br/, para http://www.voltdata.info/*
+**Autor:** [Fábio Aleixo](http://www.fabioaleixo.com.br/), para [Volt Data Lab](http://www.voltdata.info/)
