@@ -1,4 +1,4 @@
-Sintaxe do HTML
+# Sintaxe do HTML
 
 ---
 ### O que fazer?
