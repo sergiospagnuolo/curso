@@ -4,16 +4,7 @@
 
 ##### 1. Reescreva a linha a seguir utilizando identação e de forma que as tags abram e fechem na ordem adequada:
 
-                <div>
-                <p>Esse é um parágrafo que antecede uma lista:</p>
-                <strong>não ordenada:</strong>
-                    <ul>
-                        <li>Item de lista 01</li>
-                        <li>Item de lista 02</li>
-                        <li>Item de lista 03</li>
-                        <li>Item de lista 04</li>
-                    </ul>
-                </div>
+`<div><p>Esse é um parágrafo que antecede uma lista:</p><strong>não ordenada:</strong><ul><li>Item de lista 01</li><li>Item de lista 02</li><li>Item de lista 03</li><li>Item de lista 04</ul></li></div>`
 
 ##### 2. Marque as tags container:
 [ ] `<img>` 
