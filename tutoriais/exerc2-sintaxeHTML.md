@@ -33,5 +33,5 @@
 - Coluna de Tabela  
 
 ___
-**Data:** 11/07/2016*  
+**Data:** 11/07/2016
 **Autor:** [Fábio Aleixo](http://www.fabioaleixo.com.br/), para [Volt Data Lab](http://www.voltdata.info/)
