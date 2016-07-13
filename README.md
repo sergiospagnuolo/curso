@@ -1,9 +1,16 @@
-# curso Volt Data Lab
+# Curso Volt Data Lab
 
 ## Template para projeto
 
 [Link aqui](https://github.com/voltdatalab/template)
 
+## Dados bacanas para gráficos
+
+[Link aqui](https://docs.google.com/spreadsheets/d/1EWAid__qRFNjJEh9MR3S1iItTxdNM9-Gsd3egBI2T10/edit?usp=sharing)
+
+## Ferramenta para fazer gráficos
+
+[Link aqui](http://voltdatalab.github.io/chartbuilder-volt/build/index.html)
 
 ## Código para exercício 1
 
