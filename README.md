@@ -2,6 +2,7 @@
 
 ## Recursos para aula 4
 
+* [Dillinger](http://dillinger.io/)
 * [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
 * [Storymap](https://storymap.knightlab.com/)
 * [Timeline.js](https://timeline.knightlab.com/)
