@@ -2,18 +2,20 @@
 
 ## Recursos para aula 4
 
-[Google Sheets](https://docs.google.com/spreadsheets/u/0/)
-[Storymap](https://storymap.knightlab.com/)
-[Timeline.js](https://timeline.knightlab.com/)
-[Chartbuilder Volt](http://voltdatalab.github.io/chartbuilder-volt/build/index.html)
-[High Charts](https://cloud.highcharts.com/)
-[Fusion Tables](https://support.google.com/fusiontables/answer/2571232?hl=en)
-[Raw](http://raw.densitydesign.org/)
-[JSbin](http://jsbin.com/)
+-[Google Sheets](https://docs.google.com/spreadsheets/u/0/)
+-[Storymap](https://storymap.knightlab.com/)
+-[Timeline.js](https://timeline.knightlab.com/)
+-[Chartbuilder Volt](http://voltdatalab.github.io/chartbuilder-volt/build/index.html)
+-[High Charts](https://cloud.highcharts.com/)
+-[Fusion Tables](https://support.google.com/fusiontables/answer/2571232?hl=en)
+-[Raw](http://raw.densitydesign.org/)
+-[JSbin](http://jsbin.com/)
 
 #### Para fotos: [Unsplash](https://unsplash.com/)
 
-#### Dados para exemplo: [Gastos do governo](https://docs.google.com/spreadsheets/d/1xInfCkha1_-Fc5O3u1eqAaGcEFrKPLpGbcKA8rf8K_4/edit?usp=sharing), [feijão](https://docs.google.com/spreadsheets/d/1xAN0mwQ8-Sh3u1D2dZfRsSJrsXDdvoEs5ZEMB99gGNY/edit?usp=sharing) e [linha do tempo](https://docs.google.com/spreadsheets/d/1eJ2G4xcdakhP4l85ZNUkNdlrCggebZO5ZHNZeMpFRe4/edit?usp=sharing)
+#### Dados para exemplo: 
+-[Gastos do governo](https://docs.google.com/spreadsheets/d/1xInfCkha1_-Fc5O3u1eqAaGcEFrKPLpGbcKA8rf8K_4/edit?usp=sharing), -[feijão](https://docs.google.com/spreadsheets/d/1xAN0mwQ8-Sh3u1D2dZfRsSJrsXDdvoEs5ZEMB99gGNY/edit?usp=sharing) 
+-[linha do tempo](https://docs.google.com/spreadsheets/d/1eJ2G4xcdakhP4l85ZNUkNdlrCggebZO5ZHNZeMpFRe4/edit?usp=sharing)
 
 ## Template para projeto
 
